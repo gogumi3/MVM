@@ -12,3 +12,6 @@ https://docs.google.com/presentation/d/e/2PACX-1vSDKAsjRWpoIZhtSQzAmBJhyG6UGMYdf
 
 12주차
 https://docs.google.com/presentation/d/e/2PACX-1vS9s8jGaDEfj_naEWN2sDHJXL-yFe2XQxOLZ7y4Lr7GfWo9PA2Rvim5TnxHhf7UCQ/pub?start=false&loop=false&delayms=3000
+
+13주차
+https://docs.google.com/presentation/d/e/2PACX-1vTbyLKLcSIDFU1Jn01nsFnTd-Q2PVShQOWUq3ulQ1ZZmDy0Qm-b03IktUUecBRCWQ/pub?start=true&loop=true&delayms=3000
